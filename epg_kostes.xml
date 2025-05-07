@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="Custom EPG">
+  <channel id="17kostes">
+    <display-name>17 Κωστές</display-name>
+  </channel>
+  <programme start="20250507200000 +0300" stop="20250507210000 +0300" channel="17kostes">
+    <title lang="el">Κωστές - Επεισόδιο 1</title>
+    <desc lang="el">Ο Κωστής μετακομίζει στην Αθήνα και όλα αλλάζουν.</desc>
+  </programme>
+  <programme start="20250507210000 +0300" stop="20250507220000 +0300" channel="17kostes">
+    <title lang="el">Κωστές - Επεισόδιο 2</title>
+    <desc lang="el">Η νέα δουλειά του Κωστή φέρνει ανατροπές και εκπλήξεις.</desc>
+  </programme>
+  <programme start="20250507220000 +0300" stop="20250507230000 +0300" channel="17kostes">
+    <title lang="el">Κωστές - Επεισόδιο 3</title>
+    <desc lang="el">Μια απρόσμενη επίσκεψη ξυπνάει παλιές μνήμες.</desc>
+  </programme>
+</tv>
